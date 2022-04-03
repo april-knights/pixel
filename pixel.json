@@ -31478,18 +31478,12 @@
             "pixels": [
                 {
                     "x": 747,
-                    "y": 667,
+                    "y": 668,
                     "color": 30,
                     "priority": 2
                 },
                 {
                     "x": 747,
-                    "y": 668,
-                    "color": 29,
-                    "priority": 2
-                },
-                {
-                    "x": 747,
                     "y": 669,
                     "color": 29,
                     "priority": 2
@@ -31497,7 +31491,7 @@
                 {
                     "x": 747,
                     "y": 670,
-                    "color": 2,
+                    "color": 29,
                     "priority": 2
                 },
                 {
@@ -31521,7 +31515,7 @@
                 {
                     "x": 747,
                     "y": 674,
-                    "color": 29,
+                    "color": 2,
                     "priority": 2
                 },
                 {
@@ -31531,8 +31525,8 @@
                     "priority": 2
                 },
                 {
-                    "x": 748,
-                    "y": 667,
+                    "x": 747,
+                    "y": 676,
                     "color": 29,
                     "priority": 2
                 },
@@ -31545,13 +31539,13 @@
                 {
                     "x": 748,
                     "y": 669,
-                    "color": 2,
+                    "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 748,
                     "y": 670,
-                    "color": 27,
+                    "color": 2,
                     "priority": 2
                 },
                 {
@@ -31563,43 +31557,43 @@
                 {
                     "x": 748,
                     "y": 672,
-                    "color": 31,
-                    "priority": 2
-                },
-                {
-                    "x": 748,
-                    "y": 673,
                     "color": 27,
                     "priority": 2
                 },
                 {
                     "x": 748,
+                    "y": 673,
+                    "color": 31,
+                    "priority": 2
+                },
+                {
+                    "x": 748,
                     "y": 674,
-                    "color": 2,
+                    "color": 27,
                     "priority": 2
                 },
                 {
                     "x": 748,
                     "y": 675,
-                    "color": 29,
+                    "color": 2,
                     "priority": 2
                 },
                 {
-                    "x": 749,
-                    "y": 667,
+                    "x": 748,
+                    "y": 676,
                     "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 749,
                     "y": 668,
-                    "color": 2,
+                    "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 749,
                     "y": 669,
-                    "color": 27,
+                    "color": 2,
                     "priority": 2
                 },
                 {
@@ -31611,13 +31605,13 @@
                 {
                     "x": 749,
                     "y": 671,
-                    "color": 31,
+                    "color": 27,
                     "priority": 2
                 },
                 {
                     "x": 749,
                     "y": 672,
-                    "color": 27,
+                    "color": 31,
                     "priority": 2
                 },
                 {
@@ -31635,37 +31629,37 @@
                 {
                     "x": 749,
                     "y": 675,
-                    "color": 2,
+                    "color": 27,
                     "priority": 2
                 },
                 {
-                    "x": 750,
-                    "y": 667,
-                    "color": 29,
+                    "x": 749,
+                    "y": 676,
+                    "color": 2,
                     "priority": 2
                 },
                 {
                     "x": 750,
                     "y": 668,
-                    "color": 2,
+                    "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 750,
                     "y": 669,
-                    "color": 31,
+                    "color": 2,
                     "priority": 2
                 },
                 {
                     "x": 750,
                     "y": 670,
-                    "color": 27,
+                    "color": 31,
                     "priority": 2
                 },
                 {
                     "x": 750,
                     "y": 671,
-                    "color": 31,
+                    "color": 27,
                     "priority": 2
                 },
                 {
@@ -31689,43 +31683,43 @@
                 {
                     "x": 750,
                     "y": 675,
-                    "color": 2,
+                    "color": 31,
                     "priority": 2
                 },
                 {
-                    "x": 751,
-                    "y": 667,
-                    "color": 29,
+                    "x": 750,
+                    "y": 676,
+                    "color": 2,
                     "priority": 2
                 },
                 {
                     "x": 751,
                     "y": 668,
-                    "color": 2,
+                    "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 751,
                     "y": 669,
-                    "color": 31,
+                    "color": 2,
                     "priority": 2
                 },
                 {
                     "x": 751,
                     "y": 670,
-                    "color": 27,
-                    "priority": 2
-                },
-                {
-                    "x": 751,
-                    "y": 671,
                     "color": 31,
                     "priority": 2
                 },
                 {
                     "x": 751,
-                    "y": 672,
+                    "y": 671,
                     "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 751,
+                    "y": 672,
+                    "color": 31,
                     "priority": 2
                 },
                 {
@@ -31743,25 +31737,25 @@
                 {
                     "x": 751,
                     "y": 675,
+                    "color": 27,
+                    "priority": 2
+                },
+                {
+                    "x": 751,
+                    "y": 676,
                     "color": 2,
                     "priority": 2
                 },
                 {
                     "x": 752,
-                    "y": 667,
+                    "y": 668,
                     "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 752,
-                    "y": 668,
-                    "color": 2,
-                    "priority": 2
-                },
-                {
-                    "x": 752,
                     "y": 669,
-                    "color": 31,
+                    "color": 2,
                     "priority": 2
                 },
                 {
@@ -31791,19 +31785,19 @@
                 {
                     "x": 752,
                     "y": 674,
-                    "color": 27,
+                    "color": 31,
                     "priority": 2
                 },
                 {
                     "x": 752,
                     "y": 675,
-                    "color": 2,
+                    "color": 27,
                     "priority": 2
                 },
                 {
-                    "x": 753,
-                    "y": 667,
-                    "color": 29,
+                    "x": 752,
+                    "y": 676,
+                    "color": 2,
                     "priority": 2
                 },
                 {
@@ -31815,19 +31809,19 @@
                 {
                     "x": 753,
                     "y": 669,
-                    "color": 2,
+                    "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 753,
                     "y": 670,
-                    "color": 31,
+                    "color": 2,
                     "priority": 2
                 },
                 {
                     "x": 753,
                     "y": 671,
-                    "color": 27,
+                    "color": 31,
                     "priority": 2
                 },
                 {
@@ -31845,29 +31839,29 @@
                 {
                     "x": 753,
                     "y": 674,
-                    "color": 2,
+                    "color": 27,
                     "priority": 2
                 },
                 {
                     "x": 753,
                     "y": 675,
+                    "color": 2,
+                    "priority": 2
+                },
+                {
+                    "x": 753,
+                    "y": 676,
                     "color": 29,
                     "priority": 2
                 },
                 {
                     "x": 754,
-                    "y": 667,
+                    "y": 668,
                     "color": 30,
                     "priority": 2
                 },
                 {
                     "x": 754,
-                    "y": 668,
-                    "color": 29,
-                    "priority": 2
-                },
-                {
-                    "x": 754,
                     "y": 669,
                     "color": 29,
                     "priority": 2
@@ -31875,7 +31869,7 @@
                 {
                     "x": 754,
                     "y": 670,
-                    "color": 2,
+                    "color": 29,
                     "priority": 2
                 },
                 {
@@ -31899,12 +31893,18 @@
                 {
                     "x": 754,
                     "y": 674,
-                    "color": 29,
+                    "color": 2,
                     "priority": 2
                 },
                 {
                     "x": 754,
                     "y": 675,
+                    "color": 29,
+                    "priority": 2
+                },
+                {
+                    "x": 754,
+                    "y": 676,
                     "color": 29,
                     "priority": 2
                 }
