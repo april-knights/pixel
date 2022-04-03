@@ -17,3 +17,10 @@ file = "images/banner_overlay_w_heart.png"
 startx = 754
 starty = 660
 priority = 3
+
+[[structure]]
+name = "tagpro"
+file = "images/tagpro.png"
+startx = 199
+starty = 451
+priority = 2
