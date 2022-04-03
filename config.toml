@@ -15,5 +15,5 @@ version = 0
 name = "banner_overlay_w_heart"
 file = "images/banner_overlay_w_heart.png"
 startx = 754
-starty = 661
+starty = 660
 priority = 3
