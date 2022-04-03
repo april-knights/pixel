@@ -31,3 +31,10 @@ file = "images/komi.png"
 startx = 713
 starty = 646
 priority = 2
+
+[[structure]]
+name = "aunty-donna"
+file = "images/aunty-donna.png"
+startx = 738
+starty = 648
+priority = 2
