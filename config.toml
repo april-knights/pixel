@@ -73,3 +73,10 @@ file = "images/thisisfine.png"
 startx = 734
 starty = 1474
 priority = 2
+
+[[structure]]
+name = "optifine"
+file = "images/optifine.png"
+startx = 460
+starty = 1562
+priority = 2
