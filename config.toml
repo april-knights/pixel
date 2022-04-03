@@ -66,3 +66,10 @@ file = "images/ccgc.png"
 startx = 782
 starty = 1512
 priority = 2
+
+[[structure]]
+name = "thisisfine"
+file = "images/thisisfine.png"
+startx = 734
+starty = 1474
+priority = 2
