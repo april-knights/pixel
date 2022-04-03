@@ -52,3 +52,10 @@ file = "images/pxlsspace.png"
 startx = 773
 starty = 702
 priority = 2
+
+[[structure]]
+name = "mustafar_duel"
+file = "images/mustafar_duel.png"
+startx = 592
+starty = 1522
+priority = 2
