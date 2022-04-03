@@ -24,3 +24,10 @@ file = "images/tagpro.png"
 startx = 200
 starty = 450
 priority = 2
+
+[[structure]]
+name = "komi"
+file = "images/komi.png"
+startx = 713
+starty = 646
+priority = 2
