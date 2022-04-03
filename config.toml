@@ -45,3 +45,10 @@ file = "images/throwback.png"
 startx = 747
 starty = 668
 priority = 2
+
+[[structure]]
+name = "pxlsspace"
+file = "images/pxlsspace.png"
+startx = 773
+starty = 702
+priority = 2
