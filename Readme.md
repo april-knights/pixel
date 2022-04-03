@@ -1,8 +1,8 @@
 # Pixel store (wip)
 
 Place to coordinate which pixel to place  
-Aktueller Bot Auftrag:
-![Bot Auftrag](output.png)
+Current output:
+![Output](output.png)
 
 ## Scripts
 
