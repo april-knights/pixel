@@ -59,3 +59,10 @@ file = "images/mustafar_duel.png"
 startx = 592
 starty = 1522
 priority = 2
+
+[[structure]]
+name = "ccgc"
+file = "images/ccgc.png"
+startx = 735
+starty = 1512
+priority = 2
