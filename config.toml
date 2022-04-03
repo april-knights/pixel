@@ -38,3 +38,10 @@ file = "images/aunty-donna.png"
 startx = 738
 starty = 648
 priority = 2
+
+[[structure]]
+name = "throwback"
+file = "images/throwback.png"
+startx = 747
+starty = 667
+priority = 2
