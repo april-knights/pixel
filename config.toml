@@ -19,7 +19,7 @@ ignore_colors = [
 
 [[structure]]
 name = "banner_overlay_w_heart"
-file = "images/banner_overlay_w_heart.png"
+file = "images/banner_overlay_with_button.png"
 startx = 754
 starty = 660
 priority = 3
