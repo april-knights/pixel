@@ -20,9 +20,9 @@ priority = 3
 
 [[structure]]
 name = "tagpro"
-file = "images/tagpro.png"
-startx = 200
-starty = 450
+file = "images/tagpro2.png"
+startx = 1728
+starty = 1916
 priority = 2
 
 [[structure]]
