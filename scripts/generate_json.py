@@ -101,11 +101,11 @@ def create_structure(image, priority_mask, startx, starty, structure_priority, i
 
     return {
             "priority": structure_priority,
-            "pixels": pixels,
             "start_x": startx,
             "start_y": starty,
             "size_x": size_x,
             "size_y": size_y,
+            "pixels": pixels,
             }
 
 if __name__ == "__main__":
