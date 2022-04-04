@@ -80,3 +80,10 @@ file = "images/optifine.png"
 startx = 460
 starty = 1562
 priority = 2
+
+[[structure]]
+name = "srgrafo"
+file = "images/srgrafo.png"
+startx = 1415
+starty = 1707
+priority = 2
