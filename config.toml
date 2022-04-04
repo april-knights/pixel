@@ -63,8 +63,8 @@ priority = 2
 [[structure]]
 name = "ccgc"
 file = "images/ccgc.png"
-startx = 782
-starty = 1512
+startx = 1002
+starty = 1882
 priority = 2
 
 [[structure]]
