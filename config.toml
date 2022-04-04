@@ -18,7 +18,7 @@ ignore_colors = [
 "3" = 10
 
 [[structure]]
-name = "banner_overlay_w_heart"
+name = "april_knights_and_friends"
 file = "images/banner_overlay_with_button.png"
 startx = 754
 starty = 660
