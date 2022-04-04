@@ -3,7 +3,13 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 0
+# unused, just for upstream compatibility
+[versions]
+"browser" = 0
+"python" = 0
+"nodejs" = 0
+
+# priority: higher number = higher chance of being placed
 
 [priorities]
 "0" = 0
