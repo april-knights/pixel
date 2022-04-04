@@ -39,7 +39,7 @@ starty = 646
 priority = 2
 
 [[structure]]
-name = "aunty-donna"
+name = "aunty_donna"
 file = "images/aunty-donna.png"
 startx = 738
 starty = 653
