@@ -45,6 +45,11 @@ def hex_to_col(hex_str, alpha=0xff):
         return int(s, 16)
     return (conv(hex_str[1:3]), conv(hex_str[3:5]), conv(hex_str[5:7]), alpha)
 
+def col_to_hex(color):
+    def conv(s):
+        return format(s, "x")
+    return "#" + conv(color[0]) + conv(color[1]) + conv(color[2])
+
 colors = {}
 for hex_str, index in COLOR_MAPPINGS.items():
     colors[hex_to_col(hex_str)] = index
@@ -54,6 +59,10 @@ def find_closest_index(color):
         return (col1[0] - col2[0])**2 + (col1[1] - col2[1])**2 + (col1[2] - col2[2])**2
     closest = list(colors.keys())[0]
     val = dist(color, closest)
+
+    # if val != 0:
+    #     print(f"Colour not in palette {col_to_hex(color)}!")
+
     for key in colors.keys():
         d = dist(color, key)
         if d < val:
