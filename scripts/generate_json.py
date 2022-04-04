@@ -77,8 +77,10 @@ def create_structure(image, priority_mask, startx, starty, structure_priority, i
 
     with Image.open(image) as img:
         priority_img = Image.open(priority_mask) if priority_mask else None
-        for x in range(img.size[0]):
-            for y in range(img.size[1]):
+        size_x = img.size[0]
+        size_y = img.size[1]
+        for x in range(size_x):
+            for y in range(size_y):
                 color = img.getpixel((x, y))
                 if color in ignore_colors:
                     continue
@@ -91,6 +93,8 @@ def create_structure(image, priority_mask, startx, starty, structure_priority, i
     return {
             "priority": structure_priority,
             "pixels": pixels,
+            "size_x": size_x,
+            "size_y": size_y,
             }
 
 if __name__ == "__main__":
